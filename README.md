@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FoodKharido
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# Food-Kharido
+This is Frontend part of the food-kharido application by searching the food item you can add food in your cart and make a order
+>>>>>>> 6ed3be5b42e7ae608c92daedb7a3c1d311d662bf
